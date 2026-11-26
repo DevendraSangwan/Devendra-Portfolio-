@@ -31,9 +31,15 @@ A modern, responsive, and high-performance personal portfolio website built with
 
 ## 🛠️ Tech Stack & Skills
 - **Frontend**: React.js, JavaScript (ES6+), HTML5, CSS3, Responsive Design
-- **Backend & Database**: Node.js, Express.js, MongoDB, Mongoose, RESTful APIs
-- **Languages & AI**: Google Gemini API, Python, Basic C++, DSA & Problem Solving
+- **Backend & Database**: Node.js, Express.js, FastAPI, MongoDB, Mongoose, RESTful APIs
+- **Languages & Data / AI**: Python, NumPy, CSV Data Handling, Google Gemini API, Basic C++, DSA & Problem Solving
 - **Tools & DevOps**: Git, GitHub, VS Code, Postman, Linux (Ubuntu), Docker
+
+---
+
+## 💼 Work Experience
+- **Techvanz** – Full Stack Developer (*Student Management System*): Contributed to both frontend and backend codebases, implementing complete CRUD (Add, Read, Update, Delete) operations for school management.
+- **Young Founders School (Voltas & BSD)** – CSR & Project Scoping Intern (*YFS High School Internship Program 2026*).
 
 ---
 
@@ -41,21 +47,12 @@ A modern, responsive, and high-performance personal portfolio website built with
 1. **[CollabSphere](https://venerable-semolina-c405b0.netlify.app/)** – AI-Powered Developer Collaboration Platform (React, Node, Express, MongoDB, Gemini API) • [Code](https://github.com/DevendraSangwan/Phase-7-)
 2. **[Student Feedback Manager](https://phase-6-269k.onrender.com/)** – Full-Stack CRUD Application with 4 modules • [Code](https://github.com/DevendraSangwan/Phase-6)
 3. **[Gemini Studio](https://gemini-studio-hcwa.onrender.com/)** – AI Conversational Chat Workspace powered by Google Gemini API • [Code](https://github.com/DevendraSangwan/Phase-5)
+4. **[FastAPI & CSV Data Engine](https://phase-9.onrender.com/)** – Python, FastAPI & NumPy Web Application for CSV data processing • [Code](https://github.com/DevendraSangwan/Phase-9)
 
 ---
 
 ## 🚢 Deployment Guide
 
-### Option 1: GitHub Pages (Recommended)
-1. Go to repository **Settings** -> **Pages**.
-2. Under **Build and deployment**, set Source to `Deploy from a branch`.
-3. Select `main` branch and `/ (root)` folder, then click **Save**.
-4. Your website will be live in ~1-2 minutes at: `https://devendrasangwan.github.io/Devendra-Portfolio-/`
-
-### Option 2: Netlify
-1. Log in to [Netlify](https://app.netlify.com).
-2. Click **Add new site** -> **Import an existing project** -> Select **GitHub** and `Devendra-Portfolio-`.
-3. Set publish directory to `/` and click **Deploy Site**.
 
 ### Option 3: Vercel
 1. Log in to [Vercel](https://vercel.com).
